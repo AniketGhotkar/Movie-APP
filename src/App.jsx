@@ -1,7 +1,7 @@
 import { useState, useEffect} from 'react'
 import React from 'react';
 import { CiSearch } from "react-icons/ci";
-import Card from "./components/card.jsx";
+import Card from "./components/Card.jsx";
 import Spinner from "./components/Spinner.jsx";
 import './App.css'
 
